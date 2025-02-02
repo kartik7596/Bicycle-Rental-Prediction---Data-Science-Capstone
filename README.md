@@ -11,8 +11,11 @@ Predictive Modeling: Apply single and multiple linear regression techniques to p
 Model Evaluation: Assess model performance using appropriate metrics.
 # 📂 Project Structure
 data/ → Raw and processed data files
+
 notebooks/ → Jupyter notebooks for EDA and modeling
+
 src/ → Python scripts for data processing and model training
+
 reports/ → Summary reports and visualizations
 
 # 🚀 Technologies Used
