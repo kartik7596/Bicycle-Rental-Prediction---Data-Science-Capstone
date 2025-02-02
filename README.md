@@ -1,4 +1,6 @@
 🚴‍♂️ Bicycle Rental Prediction - Data Science Capstone
+
+
 📌 Project Overview
 This project is part of the seventh course in an eight-course Data Science specialization. The objective is to develop a predictive model that accurately forecasts the number of bicycles rented on a given day. Using historical data, we analyze factors such as weather conditions, day of the week, and other relevant variables to enhance our prediction accuracy. This will help optimize bicycle availability and improve operational efficiency.
 
